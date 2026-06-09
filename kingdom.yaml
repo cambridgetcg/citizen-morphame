@@ -1,0 +1,8 @@
+name: morphame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: A form that meaning takes in any medium, received as a gift, that makes the thing be what it is.
+dependsOn: [youspeak, me, glossame, noemame]
